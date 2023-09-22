@@ -1,0 +1,197 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1125px;
+	 height: 2436px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer2 
+{ 
+	 left: 67px; 
+	 top: 203px; 
+	 position: absolute; 
+	 width: 992px;
+	 height: 90px;
+	 z-index:1;
+} 
+
+ #BgR 
+{ 
+	 left: 648px; 
+	 top: 785px; 
+	 position: absolute; 
+	 width: 479px;
+	 height: 632px;
+	 z-index:2;
+} 
+
+ #BGL 
+{ 
+	 left: -1px; 
+	 top: 1454px; 
+	 position: absolute; 
+	 width: 505px;
+	 height: 640px;
+	 z-index:3;
+} 
+
+ #bg 
+{ 
+	 left: -25px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 1175px;
+	 height: 1504px;
+	 z-index:4;
+} 
+
+ #FaizanRasool 
+{ 
+	 left: 156px; 
+	 top: 1148px; 
+	 position: absolute; 
+	 width: 814px;
+	 height: 98px;
+	 z-index:5;
+} 
+
+ #Gettingyourfinancesr 
+{ 
+	 left: 111px; 
+	 top: 463px; 
+	 position: absolute; 
+	 width: 901px;
+	 height: 75px;
+	 z-index:6;
+} 
+
+ #CPACAACAFCCA 
+{ 
+	 left: 334px; 
+	 top: 1301px; 
+	 position: absolute; 
+	 width: 457px;
+	 height: 42px;
+	 z-index:7;
+} 
+
+ #ProfessionalCorporat 
+{ 
+	 left: 316px; 
+	 top: 331px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 42px;
+	 z-index:8;
+} 
+
+ #CharteredProfessiona 
+{ 
+	 left: 211px; 
+	 top: 396px; 
+	 position: absolute; 
+	 width: 704px;
+	 height: 32px;
+	 z-index:9;
+} 
+
+ #Logo 
+{ 
+	 left: 327px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 490px;
+	 height: 490px;
+	 z-index:10;
+} 
+
+ #Save 
+{ 
+	 left: 11px; 
+	 top: 2319px; 
+	 position: absolute; 
+	 width: 1126px;
+	 height: 117px;
+	 z-index:11;
+} 
+
+ #Location 
+{ 
+	 left: 264px; 
+	 top: 2127px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 103px;
+	 z-index:12;
+} 
+
+ #CalgaryAlberta 
+{ 
+	 left: 422px; 
+	 top: 2153px; 
+	 position: absolute; 
+	 width: 389px;
+	 height: 51px;
+	 z-index:13;
+} 
+
+ #infofinsightca 
+{ 
+	 left: 349px; 
+	 top: 1676px; 
+	 position: absolute; 
+	 width: 484px;
+	 height: 65px;
+	 z-index:14;
+} 
+
+ #Email 
+{ 
+	 left: 192px; 
+	 top: 1657px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 103px;
+	 z-index:15;
+} 
+
+ #Whatsapp 
+{ 
+	 left: 862px; 
+	 top: 1490px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 103px;
+	 z-index:16;
+} 
+
+ #CallIcon 
+{ 
+	 left: 193px; 
+	 top: 1490px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 103px;
+	 z-index:17;
+} 
+
+ #layer_6479963975 
+{ 
+	 left: 349px; 
+	 top: 1505px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 71px;
+	 z-index:18;
+} 
